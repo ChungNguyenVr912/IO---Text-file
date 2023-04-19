@@ -31,6 +31,6 @@ public class ReadFileExample {
     }
 
     public static void main(String[] args) {
-        readFileText("number.txt");
+        readFileText("src/read_file_example/number.txt");
     }
 }
